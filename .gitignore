@@ -9,6 +9,9 @@
 # production
 /build
 
+# env
+/src/domainConfig/*.json
+
 # misc
 .DS_Store
 .env.local
